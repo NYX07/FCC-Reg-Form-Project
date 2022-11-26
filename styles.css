@@ -29,10 +29,10 @@ body {
 @media (min-width: 320px) and (max-width: 480px) {
    #reg-form {
        width: 90%;
-       height: auto;
+       height: 100%;
        box-sizing: border-box;
        margin: 0 auto;
-       padding: 1em;
+       padding: 2em;
   } 
 
   fieldset {
