@@ -22,13 +22,12 @@ body {
   }
   
 /* Addition Of Media Queries */
-/* @media (min-width: 320px) and (max-width: 480px) {
+ @media (min-width: 320px) and (max-width: 480px) {
     form {
-        width: 85vw;
-        max-width: 480px;
-        min-width: 320px;
+        max-width: 92%;
+        margin: auto;
     }
-  } */
+  } 
 
   fieldset {
     border: none;
