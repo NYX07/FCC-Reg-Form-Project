@@ -22,7 +22,7 @@ body {
   }
   
 /* Addition Of Media Queries Here*/
-@media (min-width: 320px) and (max-width: 480px) {
+/*@media (min-width: 320px) and (max-width: 480px) {
     #reg-form {
         width: 90%;
         height: 100vh;
@@ -30,7 +30,7 @@ body {
         font-size: 1.25em;
         overflow: hidden;
      }
-   }
+   } */
 
   fieldset {
     border: none;
