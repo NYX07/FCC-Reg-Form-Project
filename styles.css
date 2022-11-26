@@ -27,11 +27,12 @@ body {
   
 /* Addition Of Media Queries */
 @media (min-width: 320px) and (max-width: 480px) {
-    form {
-        max-width: 92%;
-        height: 90vh;
-        margin: auto;
-    }
+   #reg-form {
+       width: 90%;
+       height: auto;
+       box-sizing: border-box;
+       margin: 0 auto;
+       padding: 1em;
   } 
 
   fieldset {
