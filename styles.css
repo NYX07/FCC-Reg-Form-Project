@@ -28,7 +28,8 @@ body {
         height: 100vh;
     }
     form {
-        width: 90vw;
+        width: 90%;
+        height: 97%;
     }
   }
 
