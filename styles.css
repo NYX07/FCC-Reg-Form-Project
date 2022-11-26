@@ -26,6 +26,7 @@ body {
     form {
         width: 85vw;
         max-width: 300px;
+        min-width: 100px;
     }
   }
 
