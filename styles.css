@@ -30,7 +30,6 @@ body {
    #reg-form {
        width: 90%;
        height: 100%;
-       box-sizing: border-box;
        margin: 0 auto;
        padding: 2em;
   } 
