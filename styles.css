@@ -22,7 +22,7 @@ body {
   }
   
 /* Addition Of Media Queries */
- @media (min-width: 320px) and (max-width: 480px) {
+@media (max-width: 480px) {
     #reg-form {
         width: 90vw;
         max-width: 92%;
