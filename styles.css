@@ -23,12 +23,9 @@ body {
   
 /* Addition Of Media Queries */
  @media (min-width: 320px) and (max-width: 480px) {
-    body {
-        width: 100%;
-        height: 100vh;
-    }
     form {
         width: 85vw;
+        max-width: 300px;
     }
   }
 
