@@ -24,8 +24,12 @@ body {
 /* Addition Of Media Queries */
  @media (min-width: 320px) and (max-width: 480px) {
     #reg-form {
+        width: 90vw;
         max-width: 92%;
+        min-width: 90%;
         margin: auto;
+        padding-bottom: 0px;
+        background-color: yellow:
     }
   } 
 
