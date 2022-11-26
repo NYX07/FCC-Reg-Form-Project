@@ -26,7 +26,14 @@ body {
   }
   
 /* Addition Of Media Queries Here*/
-
+@media screen and (max-width: 480px){
+    form {
+    width: 90vw;
+    max-width: 400px;
+    min-width: 300px;
+    margin: 0 auto;
+    }
+}
 
   fieldset {
     border: none;
