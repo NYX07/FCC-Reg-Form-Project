@@ -28,9 +28,9 @@ body {
 /* Addition Of Media Queries Here*/
 @media (min-width: 320px) and (max-width: 480px) {
     #reg-form {
-        width: 50%;
+        width: 90%;
         height: 100vh;
-        margin: 0 auto;
+        margin: 0;
         font-size: 1.25em;
         overflow: hidden;
      }
