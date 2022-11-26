@@ -31,8 +31,9 @@ body {
     width: 90vw;
     height: 100vh;
     margin: 0 auto;
-    }
-}
+    font-size: 2rem;
+     }
+   }
 
   fieldset {
     border: none;
