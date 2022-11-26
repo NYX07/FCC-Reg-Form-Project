@@ -29,8 +29,7 @@ body {
 @media screen and (max-width: 480px) {
     body {
     width: 90vw;
-    max-width: 400px;
-    min-width: 300px;
+    height: 100vh;
     margin: 0 auto;
     }
 }
