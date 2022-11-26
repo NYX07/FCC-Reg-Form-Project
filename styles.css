@@ -25,14 +25,8 @@ body {
     padding-bottom: 2em;
   }
   
-/* Addition Of Media Queries */
-@media (min-width: 320px) and (max-width: 480px) {
-   #reg-form {
-       width: 90%;
-       height: 100%;
-       margin: 0 auto;
-       padding: 2em;
-  } 
+/* Addition Of Media Queries Here*/
+
 
   fieldset {
     border: none;
